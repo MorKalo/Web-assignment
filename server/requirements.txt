@@ -1,0 +1,4 @@
+flask
+psycopg2
+Flask-cors
+Flask-SQLAlchemy
